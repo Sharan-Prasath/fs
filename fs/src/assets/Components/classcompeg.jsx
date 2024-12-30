@@ -1,6 +1,6 @@
 import React from'react';
 
-class classCompEg extends React.component{
+class ClassCompEg extends React.Component{
     render(){
         return(
             <div>
@@ -10,4 +10,4 @@ class classCompEg extends React.component{
     }
 }
 
-export default classCompEg;
+export default ClassCompEg;

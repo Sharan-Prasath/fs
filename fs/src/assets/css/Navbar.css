@@ -1,0 +1,31 @@
+.box-model{
+    font-size: 100px;
+    margin: 10px;
+    border: 20px solid;
+    padding: 10;
+}
+
+#idESg{
+    text-align: center;
+}
+ul{
+    display: flex;
+    padding: 0;
+    margin: 0;
+    justify-content: space-evenly;
+    text-decoration: none;
+    list-style-type: none;
+    color: aliceblue;
+    background-color: brown;
+}
+li{
+    cursor: pointer;
+    text-decoration: none;
+    padding: 3px;
+    border-radius: 10px;
+}
+li:hover{
+    background-color: antiquewhite;
+    color: chocolate;
+    
+}
